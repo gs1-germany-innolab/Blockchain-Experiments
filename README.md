@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain-Experiments
 This repository is meant to store all Blockchain programming activities (Demos/Examples)
 
 ## License
